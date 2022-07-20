@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-<!--
-**HugoRibeiroAlves/HugoRibeiroAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<div>
+  <h1 align="center">Olá! Tudo bem? 😃️</h1>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Hugo Ribeiro</i></a> e eu estudo Desenvolvimento Web 😃️
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/hugo-ribeiro-alves"><i>Hugo Ribeiro</i></a> 😃️</h1>
+  
+    <img width="15%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+  </a><br>
+ 
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
