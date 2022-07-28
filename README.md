@@ -6,8 +6,10 @@
   <h1 align="center">Seja bem-vindo😃️</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/hugo-ribeiro-alves/"><i>Hugo Ribeiro</i></a> e eu estudo Desenvolvimento Web 😃️
   <h1 align="center">Saudações de <a href="https://www.linkedin.com/in/hugo-ribeiro-alves"><i>Hugo Ribeiro Alves</i></a> 😃️</h1>
-  <img align="center" src="https://raw.githubusercontent.com/gist/HugoRibeiroAlves/2a1f5c43721a2f5c5d298c95af017a51/raw/d3c0ded56bcde40540f79ae0dd777a496653adf0/gitcard.svg"><br>
+  <!--<img align="center" src="https://raw.githubusercontent.com/gist/HugoRibeiroAlves/2a1f5c43721a2f5c5d298c95af017a51/raw/d3c0ded56bcde40540f79ae0dd777a496653adf0/gitcard.svg"><br>
+  -->
   
+  <hr>
   <div align="center">
   <a href="https://github.com/HugoRibeiroAlves">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HugoRibeiroAlves&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
