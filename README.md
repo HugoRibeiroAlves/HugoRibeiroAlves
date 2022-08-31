@@ -1,11 +1,8 @@
-### Hi there 👋
-
-
 
 <div>
-  <h1 align="center">Seja bem-vindo😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/hugo-ribeiro-alves/"><i>Hugo Ribeiro</i></a> e eu estudo Desenvolvimento Web 😃️
-  <h1 align="center">Saudações de <a href="https://www.linkedin.com/in/hugo-ribeiro-alves"><i>Hugo Ribeiro Alves</i></a> 😃️</h1>
+  <h1 align="center">Seja bem-vindo 👋😁</h1>
+  <h1 align="center">Saudações de <a href="https://www.linkedin.com/in/hugo-ribeiro-alves"><i>Hugo Ribeiro Alves</i></a>👨‍💻🙇‍♂️ </h1>
+  <h2 align="center">Meu nome é Hugo Ribeiro Alves e eu estudo Desenvolvimento Web e curso Sistemas para Internet no <a href="https://iftm.edu.br/uberlandiacentro/" target="_blank">IFTM<a> câmpus Uberlândia Centro 👨‍🎓</h2>
   <!--<img align="center" src="https://raw.githubusercontent.com/gist/HugoRibeiroAlves/2a1f5c43721a2f5c5d298c95af017a51/raw/d3c0ded56bcde40540f79ae0dd777a496653adf0/gitcard.svg"><br>
   -->
   
@@ -29,30 +26,22 @@
 
 </div><br>
 
+<h3 align="center">Fique à vontade para entrar em contato !!! 🗣 </h3>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/hugo-ribeiro-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:hugo.ribeiro.alves1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<hr>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
- 
-</div>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💼 I’m currently working on ... outra área, estou buscando uma oportunidade.
+- 👨‍🏫 I’m currently learning ... Java e Javascript
+- 👯 I’m looking to collaborate on ... Projetos da faculdade
+- 🤔 I’m looking for help with ... Spring Boot 🍃 e React 
+- 💬 Ask me about ... HTML, CSS
+<!--- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
